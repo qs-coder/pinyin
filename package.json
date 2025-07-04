@@ -1,6 +1,6 @@
 {
-  "name": "pinyin",
-  "version": "4.0.0",
+  "name": "@qs-coder/pinyin",
+  "version": "4.0.1",
   "description": "汉语拼音转换工具。",
   "types": "./lib/types/pinyin.d.ts",
   "main": "./lib/cjs/pinyin.js",
@@ -13,10 +13,10 @@
   "author": "闲耘 <hotoo.cn@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hotoo/pinyin.git"
+    "url": "https://github.com/qs-coder/pinyin.git"
   },
   "bugs": {
-    "url": "https://github.com/hotoo/pinyin/issues"
+    "url": "https://github.com/qs-coder/pinyin/issues"
   },
   "scripts": {
     "start": "dumi dev",
